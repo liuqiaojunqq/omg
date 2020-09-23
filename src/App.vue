@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <!-- 挂载到DOM -->
+    卡圣诞节复活节开始
     <FooterNav />
   </div>
 </template>
